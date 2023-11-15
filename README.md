@@ -2,7 +2,7 @@
 
 - **`프로젝트 명` :** Stack Overflow 클론코딩
 - **`프로젝트 기간` :** 2023.08.09 - 2023.08.23
-- **`배포 링크` :** <a href="http://pre-project-018-bucket.s3-website.ap-northeast-2.amazonaws.com/" target="_blank">🌐 SMOOTHIE</a>
+- **`배포 링크` :** <a href="http://pre-project-018-bucket.s3-website.ap-northeast-2.amazonaws.com/" target="_blank">🌐 배포 링크</a>
 - **`팀 깃허브 링크` :** <a href="https://github.com/codestates-seb/seb45_pre_018/" target="_blank">📖 GitHub</a>
 
 <br />
